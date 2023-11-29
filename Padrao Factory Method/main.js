@@ -1,4 +1,3 @@
-// main.js - Exemplo de uso do Factory Method para criar computadores
 const ComputerFactory = require('./ComputerFactory');
 
 const factory = new ComputerFactory();

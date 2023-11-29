@@ -1,4 +1,3 @@
-// Computer.js - Interface para os produtos (computadores)
 class Computer {
     get ram() {}
     get hdd() {}

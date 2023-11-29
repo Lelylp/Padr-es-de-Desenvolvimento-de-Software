@@ -1,4 +1,3 @@
-// ComputerFactory.js - Factory Method para criar diferentes tipos de computadores
 const PC = require('./PC');
 const Server = require('./Server');
 
